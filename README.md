@@ -16,7 +16,7 @@ This GitHub repository serves as a space where I share projects, learning experi
 
 <!--github stats-->
 <div align="center" style="display: inline">
-   <a href="https://github.com/AecioJose">
+   <a href="https://github.com/PedroGasparin">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=PedroGasparin&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGasparin&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
