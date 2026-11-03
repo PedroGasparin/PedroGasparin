@@ -6,7 +6,7 @@
 
 Hello, I'm Pedro, I'm 20 years old. I **REALLY** **LIKE** Python as well.
 
-- 💻 Estudante de Engenharia da Computação
+- 💻 Estudante de Ciência da Computação
 - 🐍 Python Lover
 
 This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress! 🚀🔧👾
