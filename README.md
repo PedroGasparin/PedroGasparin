@@ -4,7 +4,7 @@
 
 <br>
 
-Hello, I'm Pedro, I'm 20 years old. I **REALLY** **LIKE** Python as well.
+Hello, I'm Pedro, I'm 21 years old. I **REALLY** **LIKE** Python as well.
 
 - 💻 Estudante de Ciência da Computação
 - 🐍 Python Lover
